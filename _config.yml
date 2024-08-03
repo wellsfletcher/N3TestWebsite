@@ -44,7 +44,7 @@ features                                  :
   - title                                 : Add your friends
     description                           :
     fontawesome_icon_name                 : star
-  - title                                 : See what days your friends bust on
+  - title                                 : See when your friends bust
     description                           :
     fontawesome_icon_name                 : star
   - title                                 : Get notified when your friends bust
@@ -53,7 +53,7 @@ features                                  :
   - title                                 : Beat your friends at NNN
     description                           :
     fontawesome_icon_name                 : star
-  - title                                 : Only able to use app during November
+  - title                                 : Only use app during November
     description                           :
     fontawesome_icon_name                 : star
 #  - title                                 : GitHub Pages Jekyll Theme
