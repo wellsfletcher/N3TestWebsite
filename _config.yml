@@ -38,24 +38,25 @@ mastodon_link                             : # https://mastodon.social/@ebaehr
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Log what days you bust on
-    description                           :
-    fontawesome_icon_name                 : star
-  - title                                 : Add your friends
-    description                           :
-    fontawesome_icon_name                 : star
-  - title                                 : See when your friends bust
-    description                           :
-    fontawesome_icon_name                 : star
-  - title                                 : Notify friends when you bust
-    description                           :
-    fontawesome_icon_name                 : star
-  - title                                 : Beat your friends at NNN
-    description                           :
-    fontawesome_icon_name                 : star
-  - title                                 : Only use app during November
-    description                           :
-    fontawesome_icon_name                 : star
+#  - title                                 : Log what days you bust on
+#    description                           :
+#    fontawesome_icon_name                 : star
+#  - title                                 : Add your friends
+#    description                           :
+#    fontawesome_icon_name                 : star
+#  - title                                 : See when your friends bust
+#    description                           :
+#    fontawesome_icon_name                 : star
+#  - title                                 : Notify friends when you bust
+#    description                           :
+#    fontawesome_icon_name                 : star
+#  - title                                 : Beat your friends at NNN
+#    description                           :
+#    fontawesome_icon_name                 : star
+#  - title                                 : Only use app during November
+#    description                           :
+#    fontawesome_icon_name                 : star
+
 #  - title                                 : GitHub Pages Jekyll Theme
 #    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
 #    fontawesome_icon_name                 : magic
